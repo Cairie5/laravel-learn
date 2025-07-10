@@ -1,0 +1,19 @@
+[90m= [39m[34;4mIlluminate\Database\Eloquent\Collection[39;24m {#6210
+    [34mall[39m: [
+      [34;4mApp\Models\Post[39;24m {#6206
+        [34mid[39m: [35m1[39m,
+        [34mtitle[39m: "[32mFirst Post[39m",
+        [34mbody[39m: "[32mBody of first Post[39m",
+        [34mcreated_at[39m: "[32m2025-07-04 06:12:59[39m",
+        [34mupdated_at[39m: "[32m2025-07-04 06:12:59[39m",
+      },
+      [34;4mApp\Models\Post[39;24m {#6205
+        [34mid[39m: [35m2[39m,
+        [34mtitle[39m: "[32mSecond Post[39m",
+        [34mbody[39m: "[32mBody oof Second Post[39m",
+        [34mcreated_at[39m: "[32m2025-07-04 06:15:28[39m",
+        [34mupdated_at[39m: "[32m2025-07-04 06:15:28[39m",
+      },
+    ],
+  }
+

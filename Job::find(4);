@@ -1,0 +1,12 @@
+[90m= [39m[34;4mIlluminate\Database\Eloquent\Collection[39;24m {#1305
+    [34mall[39m: [
+      [34;4mApp\Models\Job[39;24m {#5218
+        [34mid[39m: [35m4[39m,
+        [34mtitle[39m: "[32mActor[39m",
+        [34msalary[39m: "[32m$1000000[39m",
+        [34mcreated_at[39m: "[32m2025-07-02 16:11:47[39m",
+        [34mupdated_at[39m: "[32m2025-07-02 16:11:47[39m",
+      },
+    ],
+  }
+
